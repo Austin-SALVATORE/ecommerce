@@ -28,14 +28,10 @@
   <packaging>pom</packaging>
     
   <modules>
-        
     <module>
       ecommerce-server-end
     </module>
     <module>ecommerce-ui</module>
-        
-    <module>ecommerce-ui</module>
-      
   </modules>
     
   <build>
